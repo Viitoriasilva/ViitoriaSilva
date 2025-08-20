@@ -6,7 +6,7 @@ Olá! sou Samara Vitoria
 
 
 
-<a href="https://github.com/0Tavinn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Danilo-Mateus&show_icons=true&theme=rose" alt="Otavio github stats" /></a> | <a href="https://github.com/0Tavinn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Tavinn&layout=compact&theme=rose&hide_border=true" /></a> |
+<a href="https://github.com/0Tavinn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ViitoriaSilva&show_icons=true&theme=rose" alt="Otavio github stats" /></a> | <a href="https://github.com/0Tavinn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Tavinn&layout=compact&theme=rose&hide_border=true" /></a> |
 
 
 MINHAS HABILIDADES:
